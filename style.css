@@ -27,7 +27,7 @@ Large: 1.8
 - Tints:
 
 
-- Shades: 
+- Shades:
 
 
 - Accents:
@@ -83,7 +83,7 @@ Medium: 11px
 }
 
 body {
-  font-family: "Baloo Bhai 2", cursive;
+  font-family: "Baloo Bhai 2";
   line-height: 1;
   font-weight: 400;
   color: #555;
